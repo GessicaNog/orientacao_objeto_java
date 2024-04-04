@@ -9,7 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.mycompany.triangulo.Triangulo</exec.mainClass>
+        <exec.mainClass>com.mycompany.atividade6.Atividade6</exec.mainClass>
     </properties>
-    <name>atividade6_</name>
 </project>
